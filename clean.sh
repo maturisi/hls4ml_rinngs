@@ -1,4 +1,5 @@
-rm *.npy
-rm *.png
-rm *.json
-rm *.h5
+rm -f *.npy
+rm -f *.png
+rm -f *.json
+rm -f *.h5
+rm -f -r model
