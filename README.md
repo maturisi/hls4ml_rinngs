@@ -2,12 +2,6 @@
 
 This notebook is to design, develop and test a ML application on FPGA for online ring counting at NA62-RICH
 
-## Installation 
-```
-conda env create -f environment.yml
-``` 
-
-
 ## Usage
 ### Start a Session
 ```
@@ -22,3 +16,9 @@ stop the server by Ctrl-C
 ```
 conda deactivate
 ```
+
+## Installation 
+```
+conda env create -f environment.yml
+``` 
+
