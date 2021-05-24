@@ -1,4 +1,4 @@
-rm -f *.npy
+rm  *.npy
 rm -f *.png
 rm -f *.json
 rm -f *.h5
